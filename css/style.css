@@ -61,7 +61,7 @@ body {
 }
 @media (max-width: 767px) {
   .home .img {
-    margin-top: 10px;
+    margin-top: 20px;
   }
 }
 .kor2an-home,
@@ -184,6 +184,16 @@ body {
   margin-top: 150px;
 }
 @media (max-width: 767px) {
+  .kor2an-home {
+    margin-top: 75px;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .kor2an-home {
+    margin-top: 75px;
+  }
+}
+@media (max-width: 767px) {
   .kor2an-home h1 {
     display: none;
   }
@@ -232,6 +242,16 @@ body {
 }
 .work-home {
   margin-top: 150px;
+}
+@media (max-width: 767px) {
+  .work-home {
+    margin-top: 75px;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .work-home {
+    margin-top: 75px;
+  }
 }
 @media (max-width: 767px) {
   .work-home h1 {
