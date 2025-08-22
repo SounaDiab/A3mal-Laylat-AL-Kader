@@ -294,6 +294,8 @@ body {
   .work-home .work-page img {
     position: absolute;
     top: 150px;
+    width: 165px;
+    height: 130px;
   }
 }
 @media (max-width: 767px) {
