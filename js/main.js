@@ -318,24 +318,3 @@ let homePage = document.querySelector(".home-page"),
     (specialWork.style.display = "none"), (hadisKisa2.style.display = "block");
   });
 
-//  click back button to go to the previous page
-function goBack1() {
-    homePage.style.display = "flex";
-    kour2an.style.display = "none";
-    }
-function goBack2() {
-    homePage.style.display = "flex";
-    work.style.display = "none";
-    }
-function goBack3() {
-    homePage.style.display = "flex";
-    publicWork.style.display = "none";
-    }
-function goBack4() {
-    homePage.style.display = "flex";
-    specialWork.style.display = "none";
-    }
-function goBack5() {
-    homePage.style.display = "flex";
-    about.style.display = "none";
-    }
