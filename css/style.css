@@ -190,7 +190,7 @@ body {
 }
 @media (min-width: 768px) and (max-width: 992px) {
   .kor2an-home {
-    margin-top: 75px;
+    margin-top: 300px;
   }
 }
 @media (max-width: 767px) {
@@ -229,7 +229,7 @@ body {
 @media (max-width: 767px) {
   .kor2an-home .kor2an-page img {
     position: absolute;
-    top: 0;
+    top: 150px;
     width: 165px;
     height: 130px;
   }
@@ -245,7 +245,7 @@ body {
 }
 @media (max-width: 767px) {
   .work-home {
-    margin-top: 75px;
+    margin-top: 300px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
@@ -293,7 +293,7 @@ body {
 @media (max-width: 767px) {
   .work-home .work-page img {
     position: absolute;
-    top: 0;
+    top: 150px;
   }
 }
 @media (max-width: 767px) {
@@ -306,16 +306,16 @@ body {
 }
 
 .publicwork-home {
-  margin-top: 75px;
+  margin-top: 120px;
 }
 @media (max-width: 767px) {
   .publicwork-home {
-    margin-top: 0;
+    margin-top: 60px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
-  .kor2an-home {
-    publicwork-home: 0;
+  .publicwork-home {
+    margin-top: 60px;
   }
 }
 
@@ -378,16 +378,16 @@ body {
 }
 
 .specialwork-home {
-  margin-top: 75px;
+  margin-top: 120px;
 }
 @media (max-width: 767px) {
   .specialwork-home {
-    margin-top: 0;
+    margin-top: 60px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
   .specialwork-home {
-    publicwork-home: 0;
+    margin-top: 60px;
   }
 }
 
