@@ -1356,14 +1356,4 @@ body {
     margin: 0 50px;
   }
 }
-
-/* back Button */
-.back-btn{
-    font-size: 20px;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 50%;
-  background: #f0f0f0;
-  cursor: pointer;
-}
 /*# sourceMappingURL=style.css.map */
