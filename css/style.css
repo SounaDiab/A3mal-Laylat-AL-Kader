@@ -185,7 +185,7 @@ body {
 }
 @media (max-width: 767px) {
   .kor2an-home {
-    margin-top: 75px;
+    margin-top: 300px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
@@ -250,7 +250,7 @@ body {
 }
 @media (min-width: 768px) and (max-width: 992px) {
   .work-home {
-    margin-top: 75px;
+    margin-top: 300px;
   }
 }
 @media (max-width: 767px) {
